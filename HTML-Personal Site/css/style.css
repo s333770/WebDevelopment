@@ -1,6 +1,25 @@
 body{
     background-color: #effcef;
   }
+header table{
+  text-align: center;
+  margin: 0 auto;
+}
+.educationTable {
+  text-align: center;
+}
+.educationTable ul{
+  list-style-type: none;
+  padding: 0 0 0 0;
+}
+.educationTable li{
+  padding-bottom: 1em;
+}
+
+
+  #profilBilde{
+    border-radius: 100%;
+  }
 hr{
 
     border-style:none;
